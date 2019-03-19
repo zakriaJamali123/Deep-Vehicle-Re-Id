@@ -21,3 +21,11 @@ matplotlib 1.3.1
 pandas 0.12.0
 
 Pillow 2.3.0 
+
+We evaluate the performance of model on VeRi dataset link https://github.com/VehicleReId/VeRidataset
+
+Contact me
+
+Email: zakria.uestc@hotmail.com
+
+Please feel free to contact me if you have any question
