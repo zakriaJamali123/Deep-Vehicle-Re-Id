@@ -22,6 +22,8 @@ pandas 0.12.0
 
 Pillow 2.3.0 
 
+Matlab
+
 We evaluate the performance of model on VeRi dataset link https://github.com/VehicleReId/VeRidataset
 
 Contact me
