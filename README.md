@@ -12,4 +12,4 @@ Prerequisites
 •	scikit-image 0.9.3
 •	matplotlib 1.3.1
 •	pandas 0.12.0
-•	Pillow 2.3.0
+•	Pillow 2.3.0 
